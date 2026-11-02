@@ -1,12 +1,12 @@
 # 📝 To-Do List Web App
 
-This is a simple, elegant, and functional **To-Do List Web App** built using **HTML**, **CSS**, and **JavaScript**, with the support of AI tools like **ChatGPT** and **GitHub Copilot**. Designed as a beginner-friendly project, it emphasizes both **UI/UX design** and **core task management features**.
+This is a simple, elegant, and functional **To-Do List Web App** built using **HTML**, **CSS**, and **JavaScript**. Designed as a beginner-friendly project, it emphasizes both **UI/UX design** and **core task management features**.
 
 ---
 
 ## 🎯 Purpose
 
-As a learner with limited prior experience, this project helped me gain confidence in front-end development by building something real and useful. The AI tools acted as an assistant to guide my learning, help debug issues, and speed up development—**not to replace the learning**, but to **boost it**.
+One of my first front-end projects. I built it to get comfortable with HTML, CSS and JavaScript by making something real and useful.
 
 ---
 
@@ -42,8 +42,6 @@ How to structure a project with basic web technologies
 DOM manipulation and JavaScript event handling
 
 Basic CSS layout and responsiveness
-
-Used AI tools to support learning and overcome blockers
 
 Gained confidence to work on future projects more independently
 
